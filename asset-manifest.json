@@ -1,0 +1,17 @@
+{
+  "main.css": "/weatherio/static/css/main.0c8abded.chunk.css",
+  "main.js": "/weatherio/static/js/main.bc822066.chunk.js",
+  "main.js.map": "/weatherio/static/js/main.bc822066.chunk.js.map",
+  "runtime~main.js": "/weatherio/static/js/runtime~main.f8bc2f88.js",
+  "runtime~main.js.map": "/weatherio/static/js/runtime~main.f8bc2f88.js.map",
+  "static/css/2.b8a64e3a.chunk.css": "/weatherio/static/css/2.b8a64e3a.chunk.css",
+  "static/js/2.1538147e.chunk.js": "/weatherio/static/js/2.1538147e.chunk.js",
+  "static/js/2.1538147e.chunk.js.map": "/weatherio/static/js/2.1538147e.chunk.js.map",
+  "index.html": "/weatherio/index.html",
+  "precache-manifest.43b74e36221a7c237d3f17d18c0d3baa.js": "/weatherio/precache-manifest.43b74e36221a7c237d3f17d18c0d3baa.js",
+  "service-worker.js": "/weatherio/service-worker.js",
+  "static/css/2.b8a64e3a.chunk.css.map": "/weatherio/static/css/2.b8a64e3a.chunk.css.map",
+  "static/css/main.0c8abded.chunk.css.map": "/weatherio/static/css/main.0c8abded.chunk.css.map",
+  "static/media/bootstrap.min.css": "/weatherio/static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/App.css": "/weatherio/static/media/img.b6796c73.jpg"
+}
